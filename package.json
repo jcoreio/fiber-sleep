@@ -1,0 +1,26 @@
+{
+  "name": "fiber-sleep",
+  "version": "1.0.0",
+  "description": "Sleep function that works from within a fiber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoreio/fiber-sleep.git"
+  },
+  "keywords": [
+    "fibers",
+    "sleep"
+  ],
+  "author": "Jason McLaurin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jcoreio/fiber-sleep/issues"
+  },
+  "homepage": "https://github.com/jcoreio/fiber-sleep#readme",
+  "dependencies": {
+    "fibers": "^1.0.13"
+  }
+}
